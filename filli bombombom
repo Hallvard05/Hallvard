@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+
+<html>
+  
+   <head>
+        <meta charset="UTF-8">
+        <title> <h1 style="color:blue;"</p>Min Side</title>
+    </head>
+<style>
+       
+  body{
+    background-color: white;
+    }
+    a:link{
+        text-decoration:none;
+        color:white;
+        background-color:blue;
+        text-align:center;
+        padding:12px 16px;
+        
+    }
+    a:visited{
+        color:black;
+    }
+   a:hover{
+       color:black;
+   }
+    a.active{
+        color:pink;
+        
+    }
+
+    
+    li{
+        float:left;
+    }
+        ul{
+            list-style-type:none;
+            margin:0px;
+            padding:0px;
+            overflow:hidden;
+            border:4px solid grey;
+            background-color:blue;
+    }
+    .header{
+        background-color:#CCDDCE;
+        height:150px;
+    }
+ 
+ 
+    .content{
+        background-color:#D1D5D2;
+        height:300px;
+    }
+    .footer{
+        background-color:#CCDDCE;
+        height:200px;
+    
+     </style> 
+    <body>
+        <div class="header">
+            Error its a hack!!
+        </div>
+        
+           <ul>
+    <li>
+    <a href="index.html"> Hjem </a>
+    <a href="https://www.youtube.com/channel/UC3pCRLnfK3IhaiCViTXqsGw"> DerFredrik Spisial </a>
+    <a href="https://www.instagram.com/"> noe </a>
+    </li>
+    </ul>
+        
+        
+        <div class="content">
+          <img src="img-d1438f189cfa03260c971d3281983b61-ec1.jpg"alt="Trial" width="800px"
+            her kan jeg skrive alt som jeg vil ha i hederen
+            </div>
+        <div class="footer">
+            her kan jeg skrive alt som jeg vil ha i foten
+            </div>
+       
+        <h5>Her er min første nettside. Her kan jeg skrive æøå. Hilsen naboen din!
+        <p>her er mitt andre avsnit</p>
+        <a herf="https://www.Finn.no"></A>
+    </body>
+    
+</html>
